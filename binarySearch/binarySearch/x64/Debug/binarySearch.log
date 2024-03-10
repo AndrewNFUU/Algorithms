@@ -1,0 +1,3 @@
+﻿  binarySearch.cpp
+C:\Users\Користувач\source\repos\binarySearch\binarySearch\binarySearch.cpp(6,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  binarySearch.vcxproj -> C:\Users\Користувач\source\repos\binarySearch\x64\Debug\binarySearch.exe
